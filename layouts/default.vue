@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="app" class="flex justify-center items-center">
     <Nuxt />
   </div>
 </template>
@@ -17,5 +17,12 @@ body {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
   margin: 0;
+}
+
+#app {
+  padding: 0;
+  height: 100vh;
+  position: relative;
+  background-color: rgba(24, 24, 24, 1);
 }
 </style>
