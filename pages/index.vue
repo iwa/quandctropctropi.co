@@ -15,7 +15,7 @@
       animate-fade-in-down-header
     "
   >
-    <img src="@/assets/encore.gif" class="mx-auto my-4 rounded-lg" />
+    <img src="/encore.gif" class="mx-auto my-4 rounded-lg" />
     <h1 class="text-3xl font-medium text-black text-center">
       quand c trop c tropico
     </h1>
