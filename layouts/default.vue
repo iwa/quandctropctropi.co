@@ -5,10 +5,8 @@
 </template>
 
 <style>
-@import url("https://fonts.googleapis.com/css2?family=Itim&display=swap");
-
 body {
-  font-family: "Itim", cursive;
+  font-family: "Lato", sans-serif;
   font-size: 16px;
   word-spacing: 1px;
   -ms-text-size-adjust: 100%;
