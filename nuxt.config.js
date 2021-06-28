@@ -6,7 +6,7 @@ export default {
     head: {
         title: 'quandctropctropi.co',
         htmlAttrs: {
-            lang: 'en'
+            lang: 'fr'
         },
         meta: [
             { charset: 'utf-8' },
@@ -14,7 +14,10 @@ export default {
             { hid: 'description', name: 'description', content: '' }
         ],
         link: [
-            { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+            { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+            { rel: 'icon', type: 'image/png', href: '/favicon-32x32.png' },
+            { rel: 'icon', type: 'image/png', href: '/favicon-16x16.png' },
+            { rel: 'apple-touch-icon', sizes: '180x180', href: '/apple-touch-icon.png' }
         ]
     },
 
